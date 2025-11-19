@@ -2,8 +2,8 @@
 
 Repositori ini berisi tiga program utama berbasis **Node.js**:
 
-1.  **TCP Echo Server & Client (Node.js)**\
-2.  **Multiclient TCP Chat Server (Node.js)**\
+1.  **TCP Echo Server & Client (Node.js)**
+2.  **Multiclient TCP Chat Server (Node.js)**
 3.  **TCP Client dengan Timeout (Node.js)**
 
 Panduan instalasi dan cara menjalankan setiap program ada di bawah.
@@ -11,7 +11,7 @@ Panduan instalasi dan cara menjalankan setiap program ada di bawah.
 # 📦 1. Requirements / Apa yang Harus Diinstall
 ## ✔ Node.js (WAJIB)
 
-Gunakan Node.js minimal versi **18+**\
+Gunakan Node.js minimal versi **18+**
 
 Cek apakah sudah terpasang:
     node -v
@@ -68,9 +68,9 @@ Jika terjadi timeout:
 
 # 📚 6. Catatan Tambahan
 
--   Semua menggunakan module `net` bawaan Node.js\
--   Semua contoh memakai IPv4 (`127.0.0.1`)\
--   Jalankan server **sebelum** client\
+-   Semua menggunakan module `net` bawaan Node.js
+-   Semua contoh memakai IPv4 (`127.0.0.1`)
+-   Jalankan server **sebelum** client
 -   Port bisa diubah sesuai kebutuhan
 
 # 🎉 Selesai!
