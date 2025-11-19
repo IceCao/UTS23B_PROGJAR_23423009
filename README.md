@@ -12,7 +12,6 @@ Panduan instalasi dan cara menjalankan setiap program ada di bawah.
 ## ✔ Node.js (WAJIB)
 
 Gunakan Node.js minimal versi **18+**\
-Download: https://nodejs.org/
 
 Cek apakah sudah terpasang:
     node -v
